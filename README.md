@@ -9,6 +9,7 @@ To keep track of this information until a formal [Compatibility Matrix](https://
 
 | IntelliJ Version (Build Number) | AGP Version | [Android Plugin for IntelliJ IDEA & AppCode](https://plugins.jetbrains.com/plugin/22989-android)   |
 | :------------------------------:| :---------: | :------------------------------------------------------------------------------------------------: |
+| 2025.3.1.1 (#IU-253.29346.240)    | 8.12.x      | [Version 253.29346.240](https://plugins.jetbrains.com/plugin/22989-android/versions/stable/928116) |
 | 2025.3.1 (#IU-253.29346.138)    | 8.12.x      | [Version 253.29346.138](https://plugins.jetbrains.com/plugin/22989-android/versions/stable/915697) |
 
 > [!NOTE]
