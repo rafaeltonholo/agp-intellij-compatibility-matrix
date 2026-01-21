@@ -7,10 +7,11 @@ To keep track of this information until a formal [Compatibility Matrix](https://
 > [!IMPORTANT]
 > The latest version will always be listed at the top.
 
-| IntelliJ Version (Build Number) | AGP Version | [Android Plugin for IntelliJ IDEA](https://plugins.jetbrains.com/plugin/22989-android)   |
-| :------------------------------:| :---------: | :------------------------------------------------------------------------------------------------: |
-| 2025.3.1.1 (#IU-253.29346.240)    | 8.12.x      | [Version 253.29346.240](https://plugins.jetbrains.com/plugin/22989-android/versions/stable/928116) |
-| 2025.3.1 (#IU-253.29346.138)    | 8.12.x      | [Version 253.29346.138](https://plugins.jetbrains.com/plugin/22989-android/versions/stable/915697) |
+| IntelliJ Version (Build Number) | AGP Version   | [Android Plugin for IntelliJ IDEA](https://plugins.jetbrains.com/plugin/22989-android)             | Updated on |
+| :------------------------------:| :-----------: | :------------------------------------------------------------------------------------------------: | ---------- |
+| 2026.1 EAP (#IU-261.17801.55)   | 9.0.0-alpha06 | [Version 261.17801.55](https://plugins.jetbrains.com/plugin/22989-android/versions/stable/937428)  | 2026-01-20 |
+| 2025.3.1.1 (#IU-253.29346.240)  | 8.12.x        | [Version 253.29346.240](https://plugins.jetbrains.com/plugin/22989-android/versions/stable/928116) | 2026-01-08 |
+| 2025.3.1 (#IU-253.29346.138)    | 8.12.x        | [Version 253.29346.138](https://plugins.jetbrains.com/plugin/22989-android/versions/stable/915697) | 2025-12-18 |
 
 > [!NOTE]
 > TODO: Add compatibility information for past versions.
