@@ -15,10 +15,11 @@ To keep track of this information until a formal [Compatibility Matrix](https://
 |     | 2025.3.1 (#IU-253.29346.138)    | 8.12.x        | [Version 253.29346.138](https://plugins.jetbrains.com/plugin/22989-android/versions/stable/915697) | 2025-12-18 |
 
 
-| New | IntelliJ EAP Version (Build Number) | AGP Version   | [Android Plugin for IntelliJ IDEA](https://plugins.jetbrains.com/plugin/22989-android)             | Updated on |
-| :-: | :----------------------------------:| :-----------: | :------------------------------------------------------------------------------------------------: | ---------- |
-| 🆕  | 2026.1 EAP (#IU-261.20362.25)       | 9.0.0-alpha06 | [Version 261.17801.55](https://plugins.jetbrains.com/plugin/22989-android/versions/stable/937428)  | 2026-02-04 |
-|     | 2026.1 EAP (#IU-261.17801.55)       | 9.0.0-alpha06 | [Version 261.17801.55](https://plugins.jetbrains.com/plugin/22989-android/versions/stable/937428)  | 2026-01-20 |
+| New | IntelliJ EAP Version (Build Number) | AGP Version   | [Android Plugin for IntelliJ IDEA](https://plugins.jetbrains.com/plugin/22989-android)               | Updated on |
+| :-: | :----------------------------------:| :-----------: | :--------------------------------------------------------------------------------------------------: | ---------- |
+| 🆕  | 2026.1 EAP (#IU-261.20869.38) 🆕     | 9.0.0-alpha06 | [Version 261.20869.38](https://plugins.jetbrains.com/plugin/22989-android/versions/stable/956533) 🆕 | 2026-02-13 |
+|     | 2026.1 EAP (#IU-261.20362.25)       | 9.0.0-alpha06 | [Version 261.17801.55](https://plugins.jetbrains.com/plugin/22989-android/versions/stable/937428)    | 2026-02-04 |
+|     | 2026.1 EAP (#IU-261.17801.55)       | 9.0.0-alpha06 | [Version 261.17801.55](https://plugins.jetbrains.com/plugin/22989-android/versions/stable/937428)    | 2026-01-20 |
 
 > [!NOTE]
 > TODO: Add compatibility information for past versions.
